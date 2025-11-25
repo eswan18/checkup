@@ -4,6 +4,11 @@
       "name": "Forecasting App",
       "url": "https://forecasting.ethanswan.com",
       "healthcheckUrl": "https://forecasting.ethanswan.com/api/health"
+    },
+    {
+      "name": "Buy vs Rent NPV Calculator",
+      "url": "https://npv-mortgage.vercel.app",
+      "healthcheckUrl": "https://npv-mortgage.vercel.app/api/health"
     }
   ]
 }
