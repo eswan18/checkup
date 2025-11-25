@@ -1,0 +1,8 @@
+{
+  "services": [
+    {
+      "name": "Forecasting App",
+      "healthcheckUrl": "https://forecasting.ethanswan.com/api/health"
+    }
+  ]
+}
