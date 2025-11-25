@@ -58,8 +58,8 @@ function App() {
   return (
     <div className="container">
       <header className="header">
-        <h1>Service Health Dashboard</h1>
-        <p className="subtitle">Real-time monitoring of your services</p>
+        <h1>Ethan's Services</h1>
+        <p className="subtitle">Status dashboard</p>
       </header>
 
       <div className="controls">
