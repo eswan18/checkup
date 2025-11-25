@@ -86,8 +86,22 @@ function App() {
             </div>
 
             <div className="service-details">
+              {service.url && (
+                <div className="detail-row">
+                  <span className="detail-label">URL:</span>
+                  <a
+                    href={service.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="detail-link"
+                  >
+                    {service.url}
+                  </a>
+                </div>
+              )}
+
               <div className="detail-row">
-                <span className="detail-label">Endpoint:</span>
+                <span className="detail-label">Health Check:</span>
                 <span className="detail-value">{service.healthcheckUrl}</span>
               </div>
 

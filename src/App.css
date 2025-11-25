@@ -207,3 +207,16 @@
 .detail-row.error .detail-value {
   color: #dc2626;
 }
+
+.detail-link {
+  color: #667eea;
+  text-decoration: none;
+  word-break: break-all;
+  transition: color 0.2s ease;
+  font-weight: 500;
+}
+
+.detail-link:hover {
+  color: #764ba2;
+  text-decoration: underline;
+}

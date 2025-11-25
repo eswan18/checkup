@@ -2,6 +2,7 @@
   "services": [
     {
       "name": "Forecasting App",
+      "url": "https://forecasting.ethanswan.com",
       "healthcheckUrl": "https://forecasting.ethanswan.com/api/health"
     }
   ]
