@@ -9,6 +9,16 @@
       "name": "Buy vs Rent NPV Calculator",
       "url": "https://npv-mortgage.vercel.app",
       "healthcheckUrl": "https://npv-mortgage.vercel.app/api/health"
+    },
+    {
+      "name": "Fitness Dashboard",
+      "url": "https://fitness.ethanswan.com",
+      "healthcheckUrl": "https://fitness.ethanswan.com/api/health"
+    },
+    {
+      "name": "Fitness API",
+      "url": "https://fitness-api.ethanswan.com/docs",
+      "healthcheckUrl": "https://fitness-api.ethanswan.com/health"
     }
   ]
 }
