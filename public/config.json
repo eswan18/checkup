@@ -6,6 +6,11 @@
       "healthcheckUrl": "https://forecasting.ethanswan.com/api/health"
     },
     {
+      "name": "Identity Service",
+      "url": "https://identity.ethanswan.com",
+      "healthcheckUrl": "https://identity.ethanswan.com/health"
+    },
+    {
       "name": "Buy vs Rent NPV Calculator",
       "url": "https://npv-mortgage.vercel.app",
       "healthcheckUrl": "https://npv-mortgage.vercel.app/api/health"
