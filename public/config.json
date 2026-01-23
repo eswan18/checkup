@@ -24,6 +24,11 @@
       "name": "Fitness API",
       "url": "https://fitness-api.ethanswan.com/docs",
       "healthcheckUrl": "https://fitness-api.ethanswan.com/health"
+    },
+    {
+      "name": "Asset Manager",
+      "url": "https://assets.ethanswan.com",
+      "healthcheckUrl": "https://assets.ethanswan.com/health"
     }
   ]
 }
