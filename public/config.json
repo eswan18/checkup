@@ -18,7 +18,7 @@
     {
       "name": "Fitness Dashboard",
       "url": "https://fitness.ethanswan.com",
-      "healthcheckUrl": "https://fitness.ethanswan.com/api/health"
+      "healthcheckUrl": "https://fitness.ethanswan.com/health"
     },
     {
       "name": "Fitness API",
